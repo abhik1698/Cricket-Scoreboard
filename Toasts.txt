@@ -1,0 +1,15 @@
+if (mvalue == -1) {
+
+            Toast.makeText(this, "OooooooSexy", Toast.LENGTH_SHORT).show();
+        }
+
+ else if (mvalue == 6)
+            Toast.makeText(this, "Nakkan...", Toast.LENGTH_SHORT).show();
+        else if (mvalue == 69)
+            Toast.makeText(this, "Ball nodoo!", Toast.LENGTH_SHORT).show();
+        else if (mvalue == 1)
+            Toast.makeText(this, "Odooo...", Toast.LENGTH_SHORT).show();
+        else if (mvalue == 3)
+            Toast.makeText(this, "Runningo-le", Toast.LENGTH_SHORT).show();
+        else if (mvalue == 4)
+            Toast.makeText(this, "Shot", Toast.LENGTH_SHORT).show();

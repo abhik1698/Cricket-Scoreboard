@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">&lt;scorer.h&gt;</string>
+    <string name="team_a">Team A</string>
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="start_the_game">Start the \nGame</string>
+    <string name="all_teamed_up_and_ready">All Teamed up and Ready?</string>
+    <string name="finish">Finish</string>
+    <string name="all_out">All-out</string>
+    <string name="_0_0_over_s">(0.0) over(s)</string>
+    <string name="_0_0_r_p_o">(0.0) r.p.o</string>
+</resources>
